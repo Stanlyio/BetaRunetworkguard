@@ -77,7 +77,3 @@ Base: digital-defense.io/api
 /api/search/[searchterm]
 
 
-### Developing
-
-### Deploying
-
