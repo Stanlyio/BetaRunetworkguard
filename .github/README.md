@@ -1,7 +1,7 @@
-<h1 align="center">Personal Security Checklist</h1>
+<h1 align="center">Бета (СУРРОГАТ)</h1>
 
 <p align="center">
-<b><i>The ultimate list of tips to secure your digital life</i></b>
+<b><i>от материнки</i></b>
 <br />
 <b>🌐 <a href="https://digital-defense.io/">digital-defense.io</a></b><br />
 <br />
