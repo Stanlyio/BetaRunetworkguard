@@ -1,13 +1,14 @@
-- title: Authentication
-  slug: authentication
+- title: AuthenticationФФ
+  slug: authenticationАА
   description: Securing your online account login credentials
   icon: password
   color: yellow
   intro: >-
-    Most reported data breaches are caused by the use of weak, default or stolen passwords
-    (according to [this Verizon report](http://www.verizonenterprise.com/resources/reports/rp_dbir-2016-executive-summary_xg_en.pdf)).
-    Use long, strong and unique passwords, manage them in a secure password manager, enable
-    2-factor authentication, keep on top of breaches and take care while logging into your accounts.
+    Большинство зарегистрированных случаев утечек данных происходят из-за использования слабых,
+    стандартных или украденных паролей (согласно этому [отчету Verizon](http://www.verizonenterprise.com/resources/reports/rp_dbir-2016-executive-summary_xg_en.pdf)). Используйте длинные,
+    надежные и уникальные пароли, управляйте ими с помощью безопасного менеджера паролей,
+    включите двухфакторную аутентификацию, следите за утечками данных и будьте осторожны при
+    входе в свои аккаунты.
   checklist:
   - point: Use a Strong Password
     priority: Essential
