@@ -24,10 +24,6 @@
 </details>
 
 
-TEST
-TEST
-TEST
-TEST
 ---
 
 ## The Checklist
