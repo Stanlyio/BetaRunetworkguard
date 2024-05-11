@@ -9,7 +9,7 @@
 *<p align="center">A curated checklist of tips to protect your digital security and privacy</p>*
 
 ### Contents
-
+   
 [<img src="https://i.ibb.co/XbyGTrP/1-authentication-2-36x36.png" width="28" height="28" /> Authentication](#authentication)<br>
 [<img src="https://i.ibb.co/8KMrdbX/2-internet-36x36.png" width="28" height="28" /> Browsing the Web](#web-browsing)<br>
 [<img src="https://i.ibb.co/7NrXW3L/5-email-36x36.png" width="28" height="28" /> Email](#emails)<br>
